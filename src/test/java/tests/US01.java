@@ -14,5 +14,7 @@ public class US01 {
         adminPages.signInButton.click();
 
         Driver.quitDriver();
+
+        System.out.println("burdan bir emre hoca geçti");
     }
 }
